@@ -1,3 +1,2 @@
-# 1er Parcial 
-Repositorio donde dejo guardado el código de un recuperatorio de parcial.
-Es un programa que carga y guarda participantes con sus notas para un jurado, los participantes en un array y las notas en una matriz, correspondiendo a cada jurado la nota a cada participante; luego dependiendo la opción que sea elegida, se muestra por pantalla las notas de cada participante, notas dentro de un rango, quien tiene mayor promedio, de una forma ordenada y limpia.
+Application for managing and evaluating participants based on jury scores.
+The system allows storing participant data, processing scores using matrix structures, calculating averages, filtering results by range, and ranking participants based on performance.
